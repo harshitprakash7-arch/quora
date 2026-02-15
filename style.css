@@ -64,3 +64,21 @@ nav ul li a {
 div > input {
     background-color: whitesmoke;
 }
+
+.ans:hover{
+    color: white;
+    background-color: #b92b27;
+}
+.up:hover{
+    color: white;
+    background-color: black;
+}
+h3:hover{
+    text-decoration: underline;
+}
+.ans:active{
+    background-color: pink;
+}
+.up:active{
+    background-color: pink;
+}
