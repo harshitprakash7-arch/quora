@@ -1,0 +1,66 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,h3{
+    color: #b92b27;
+}
+
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: #b92b27; color: white;
+}
+
+#lund{
+    border: 3px solid #b92b27;
+    background-color: black;
+    color: white;
+}
+
+#user{
+    border: 2px solid #b92b27;
+}
+.up{
+    background-color: darkred;
+    color: azure;
+}
+ html {
+  background-color: black;   /* outside body */
+}
+
+body {
+  background-color: white;   /* your content area */
+}
+
+.ans{
+    color: white;
+    background-color: black;
+    border: 3px solid #b92b27;
+}
+
+/* descendant selector */
+
+p a {
+    color: white;
+    text-decoration: none;
+    background-color: crimson;
+    border: 1px solid black;
+    
+}
+.google {
+    background-color: white;
+    color: #b92b27;
+    border: 0px;
+}
+nav ul li {
+    color: #b92b27;
+}
+nav ul li a {
+    color: brown;
+}
+
+div > input {
+    background-color: whitesmoke;
+}
