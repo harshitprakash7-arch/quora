@@ -82,3 +82,13 @@ h3:hover{
 .up:active{
     background-color: pink;
 }
+
+input[type="radio"]:checked + label {
+    color: #b92b27;
+    font-weight: bold;
+}
+
+html::selection{
+    background-color: black;
+    color: #b92b27;
+}
